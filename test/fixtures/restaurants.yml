@@ -2,8 +2,10 @@
 
 one:
   name: MyString
-  stars: 
+  stars: 1
+  address: MyString
 
 two:
   name: MyString
-  stars: 
+  stars: 1
+  address: MyString
